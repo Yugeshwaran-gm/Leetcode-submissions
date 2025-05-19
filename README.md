@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
