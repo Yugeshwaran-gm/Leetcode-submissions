@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
