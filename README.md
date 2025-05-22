@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
