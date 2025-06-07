@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0412-fizz-buzz) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
