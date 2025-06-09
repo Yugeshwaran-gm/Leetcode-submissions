@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1797-goal-parser-interpretation) |
 ## Simulation
 |  |
 | ------- |
