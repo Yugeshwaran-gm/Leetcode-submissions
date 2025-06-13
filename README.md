@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1797-goal-parser-interpretation) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
