@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1797-goal-parser-interpretation) |
+| [1899-count-items-matching-a-rule](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1899-count-items-matching-a-rule) |
 ## Simulation
 |  |
 | ------- |
