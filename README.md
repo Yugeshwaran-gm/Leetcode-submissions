@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1651-shuffle-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0412-fizz-buzz) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1505-create-target-array-in-the-given-order) |
 ## Matrix
 |  |
 | ------- |
