@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1970-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |
