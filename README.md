@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1899-count-items-matching-a-rule) |
+| [2211-k-radius-subarray-averages](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2211-k-radius-subarray-averages) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [2211-k-radius-subarray-averages](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2211-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
