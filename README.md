@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
