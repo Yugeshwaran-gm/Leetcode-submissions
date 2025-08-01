@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2211-k-radius-subarray-averages](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2211-k-radius-subarray-averages) |
 ## Stack
