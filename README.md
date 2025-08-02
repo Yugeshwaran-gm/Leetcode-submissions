@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1899-count-items-matching-a-rule) |
 | [2211-k-radius-subarray-averages](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2211-k-radius-subarray-averages) |
+| [2689-rearranging-fruits](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1970-sorting-the-sentence) |
+| [2689-rearranging-fruits](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2689-rearranging-fruits) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2689-rearranging-fruits](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2689-rearranging-fruits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
