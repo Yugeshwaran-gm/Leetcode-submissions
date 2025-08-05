@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0401-binary-watch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/2689-rearranging-fruits) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Yugeshwaran-gm/Leetcode-submissions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
